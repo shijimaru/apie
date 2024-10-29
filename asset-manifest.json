@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apie/static/css/main.17f4221b.css",
+    "main.js": "/apie/static/js/main.359172fe.js",
+    "static/js/453.a839a5f3.chunk.js": "/apie/static/js/453.a839a5f3.chunk.js",
+    "index.html": "/apie/index.html",
+    "main.17f4221b.css.map": "/apie/static/css/main.17f4221b.css.map",
+    "main.359172fe.js.map": "/apie/static/js/main.359172fe.js.map",
+    "453.a839a5f3.chunk.js.map": "/apie/static/js/453.a839a5f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17f4221b.css",
+    "static/js/main.359172fe.js"
+  ]
+}
